@@ -1,0 +1,8 @@
+{
+    "name": "HTML5Application",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "0144134",
+    "contributors": [],
+    "dependencies": {}
+}
