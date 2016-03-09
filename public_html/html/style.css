@@ -38,7 +38,6 @@ float:left;
 margin:12px 0 1px 0;
 display:block;
 height:26px;
-/ height:25px;
 }
 #menu li{
 display:inline;
@@ -76,7 +75,6 @@ font-family:Arial, Helvetica, sans-serif;
 font-size:12px;
 color:#AFA678;
 padding:0 0 56px 0;
-/ padding:0 0 54px 0;
 }
 .order h3{
 font-family:Arial, Helvetica, sans-serif;
@@ -114,7 +112,6 @@ margin:0 15px 0 0;
 .reset a{
 display:block;
 margin:10px 0 65px 80px;
-/ margin:10px 0 58px 80px;
 color:#AFA678;
 text-decoration:underline
 }
@@ -129,7 +126,6 @@ font-size:14px;
 color:#916422;
 text-transform:uppercase;
 margin:0 0 15px 20px;
-/ margin:0 0 15px 10px;
 padding:0 0 10px 0;
 background:url(images/dots.gif) bottom left repeat-x;
 display:block;
