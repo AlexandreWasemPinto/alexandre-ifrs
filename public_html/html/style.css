@@ -280,3 +280,9 @@ line-height:0px;
 padding:0px;
 font-size:11px
 }
+
+/*  Formulário de contato  */
+
+form {
+    margin-left: 20px;
+}
